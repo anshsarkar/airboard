@@ -3,7 +3,9 @@ Turn your air handwritten words/sentences in the air to text.
 
 This project was done for partial fulfillment of the course requirements under the course Human Computer Interaction (UE18CS348) at PES University, Bangalore.
 
-!(img/readme-img.png)
+<p align="center">
+  <img src="img/readme-img.png">
+</p>
 
 # What does AirBoard do?
 
