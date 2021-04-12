@@ -7,6 +7,8 @@ This project was done for partial fulfillment of the course requirements under t
   <img src="img/readme-img.png">
 </p>
 
+Watch our [Concept Video](https://drive.google.com/file/d/1O7JjJw9nxz1YQq6kl6l0ayzkOF_QVfSv/view?usp=sharing).
+
 # What does AirBoard do?
 
 * The application tracks any suitable target (for example, a pen) and uses the target to **draw in the air**. 
